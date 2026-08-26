@@ -45,6 +45,15 @@
 			"link": "https://urble.io/"
 		},
 		{
+			"title": "Épargne native d'Internet",
+			"partner": "Rebind",
+			"description": "Accédez à des stratégies d'épargne flexibles en EUR et en USD dans une application simple, avec un IBAN personnel et des retraits instantanés",
+			"longDescription": "Rebind donne un accès simple aux marchés monétaires natifs d'Internet. Alimentez un IBAN personnel ou déposez des stablecoins, choisissez une stratégie en EUR ou en USD, suivez des rendements composés automatiquement et retirez vos fonds lorsque vous en avez besoin.",
+			"category": "DeFi",
+			"image": "/images/rebind-logo.png",
+			"link": "https://rebind.co/"
+		},
+		{
 			"title": "Gestion de la paie et administration RH",
 			"partner": "Quitt",
 			"description": "Administration complète des employés incluant la paie, la sécurité sociale et le traitement des pensions – entièrement réglé en ZCHF",

@@ -49,6 +49,15 @@
 			"link": "https://urble.io/"
 		},
 		{
+			"title": "Internet-Native Savings",
+			"partner": "Rebind",
+			"description": "Access flexible EUR and USD savings strategies through a simple app, with a personal IBAN and instant withdrawals",
+			"longDescription": "Rebind gives users simple access to internet-native money markets. Fund a personal IBAN or deposit stablecoins, choose a EUR or USD strategy, track auto-compounding returns and withdraw whenever needed.",
+			"category": "DeFi",
+			"image": "/images/rebind-logo.png",
+			"link": "https://rebind.co/"
+		},
+		{
 			"title": "Payroll & HR Administration",
 			"partner": "Quitt",
 			"description": "Complete employee administration including payroll, social security, and pension processing — fully settled in ZCHF",
